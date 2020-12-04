@@ -1,2 +1,2 @@
 LINE_1 from apple branch
-
+LINE_2 from apple branch
