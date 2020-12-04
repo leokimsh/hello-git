@@ -1,2 +1,5 @@
 LINE_1 from master branch
 LINE_2 from master branch
+LINE_1 from apple branch
+LINE_2 from apple branch
+LINE_3 from apple branch
