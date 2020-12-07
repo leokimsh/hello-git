@@ -1,1 +1,2 @@
 LINE_1
+LINE_2 from remote master branch
