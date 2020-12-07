@@ -2,3 +2,4 @@ LINE_1
 LINE_2 from remote master branch
 LINE_3 from remote master branch
 LINE_4 from local master branch
+LINE_5 from remote master branch
